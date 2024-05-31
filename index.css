@@ -1,15 +1,16 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f3e5f5; /* roxo do fundo */
     margin: 0;
     padding: 20px;
-    color: #333;
+    background-color: #f3e5f5; /* roxo do fundo */
+    background: url(image\ 2.jpg) repeat;
+    background-size: 100%;max-width: 480px;
 }
 
 .container {
     max-width: 900px;
     position: fixed;
-    top: 10%;
+    top: 3%;
     bottom: 5;
     left: 0;
     right: 0;
